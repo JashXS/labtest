@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;//Jash Patel and Sathyam Patel Lab 03
 
-public class SciCalculator
+public class SciCalculator//hello world
 
 {
     public static void main(String[] args)
@@ -11,7 +11,7 @@ public class SciCalculator
 
         double Current = 0.0;//identifying the variables
         int counter = 0;
-        double totResult = 0.0;
+        double totResult = 0.0;// hello world
         int menu = 0;
         String in1;
         String in2;
